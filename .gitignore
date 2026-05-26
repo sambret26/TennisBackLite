@@ -1,0 +1,50 @@
+# Environnement virtuel
+venv/
+.env/
+.env
+.env.local
+.env.*.local
+.pylintrc
+
+# Fichiers compilés Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Logs
+*.log
+logs/
+debug.log
+
+# Configurations d'éditeurs
+.vscode/
+.idea/
+*.iml
+
+# Dépendances
+*.egg-info/
+dist/
+build/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Tests
+.coverage
+.tox/
+nosetests.xml
+test-results/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Coverage
+htmlcov/
+.coverage.*
+
+# Fichiers de déploiement
+*.bak
+*.swp

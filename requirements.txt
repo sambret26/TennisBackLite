@@ -1,0 +1,13 @@
+flask
+flask-cors
+flask-sqlalchemy
+gunicorn
+psycopg2
+python-dotenv
+PyJWT
+discord
+discord-py-interactions
+apscheduler
+pytz
+requests
+openpyxl
